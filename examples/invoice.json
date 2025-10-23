@@ -1,0 +1,5 @@
+{
+  "number": "1-2025",
+  "date": "2025-10-23",
+  "items": [{ "name": "Service", "qty": 1, "price": 100.00, "vat": 25 }]
+}
